@@ -1,2 +1,4 @@
-/hotel-demo/target/
-/hotel-admin/target/
+hotel-demo/target/
+hotel-admin/target/
+.idea/
+*.iml
